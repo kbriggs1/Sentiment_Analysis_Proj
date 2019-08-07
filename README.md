@@ -15,7 +15,7 @@ Analysis for Sentiment Analysis of the Datasets will be performed through Python
 
 # Research Goals:
 
-The goal of this research project is to perform an exploratory sentiment analysis on the provided 6 clinical narratives. I will identify, in each each paragraph, the sentiment within each sentence of the clinical notes. To begin I will explain the necessary downloads and extractions necessary to begin the analysis, then I will upload and display the narratives I will be anaylyzing. 
+The goal of this research project is to perform an exploratory sentiment analysis on the provided 6 clinical narratives. I will identify, in each each paragraph, the sentiment within each sentence of the clinical notes to determine a pattern of medical biases with certain patients based on their medical history and/or current health status. To begin I will explain the necessary downloads and extractions necessary to begin the analysis, then I will upload and display the narratives I will be anaylyzing. 
 
    # Research Questions:
         How can NLTK be used to analyze clinical narratives when it so generally used for customer reviews or novels? 
@@ -25,7 +25,10 @@ The goal of this research project is to perform an exploratory sentiment analysi
         What can be revealed through the clinical narratives from calculating the sentiment per paragraph? 
         
         For analysis of this clincial corpus, when can sentiment analysis show us about the relationship between a clincian and their patient? 
-        
+ 
+# Expected Result 
+
+Since this project is only a preliminary study with only 6 narratives, the results will be open to larger experimentation. However possible results to consider is intended to asses whether there are any clincial biases/judgments on certain patients, depending on medical history and/or current health status by medical staff. 
         
 
 
