@@ -2,7 +2,7 @@
 
 # Purpose: 
 
-Sentiment Analysis focuses on determining the sentiment of a particular topic discussed in a natural language (English, Spanish, etc). The majority of sentiment analysis studies are on topics that discuss customer service reviews rather than from the clinical domain. There are different contexts in which sentiment can be analyzed from. For instance, sentiment from the customer review perspective would look very different from a clinical narrative perspective. Therefore the purpose of this project is to perform a preliminary exploratory sentiment analysis on 6/1,304 clinical narratives extracted from the 2014 De-Identification longitudinal data corpus from Harvard University's medical study that analyzed predictive risk factors of Cardiac Artery Disease in diabetic patients. 
+Sentiment Analysis focuses on determining the sentiment of a particular topic discussed in a natural language (English, Spanish, etc). The majority of sentiment analysis studies are on topics that discuss customer service reviews rather than from the clinical domain. There are different contexts in which sentiment can be analyzed from. For instance, sentiment from the customer review perspective would look very different from a clinical narrative perspective. Therefore the purpose of this project is to perform a preliminary exploratory sentiment analysis on 6/1,304 clinical narratives extracted from the 2014 De-Identification longitudinal data corpus from Harvard University's medical study that analyzed predictive risk factors of Cardiac Artery Disease in diabetic patients. Through this exploratory analysis, I will determine if there are possible biases/judgements held by clinicians towards their patients, either from their current health status or medical history. The data from this study can be used for further studies to look further into whether medical bias could be instrumental in influencing treatment methods for patients. 
 
 # Methods: 
 
@@ -31,7 +31,7 @@ The goal of this research project is to perform an exploratory sentiment analysi
  
 # Expected Result: 
 
-Since this project is only a preliminary study with 6 narratives, the results will be open to larger experimentation. However, possible results to consider are intended to assess whether there are any clincial biases/judgments held by clinicians towards their patients depending on the patients' medical histories and/or current health statuses. 
+Since this project is only a preliminary study with 6 narratives, the results will be open to larger experimentation. However, possible results to consider are intended to assess whether there are any clincial biases/judgments held by clinicians towards their patients depending on the patients' medical histories and/or current health statuses. Any evidence of this will help contribute to further medical studies on examining the relationship between medical biases and treatment methods. 
         
 
 
